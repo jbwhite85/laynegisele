@@ -1,0 +1,11 @@
+/* This is how you make a comment in CSS */
+
+/* The way you code in CSS is basically
+selected tag{
+    property: value;
+}
+*/
+
+body{
+    background-color: rgb(51, 51, 51);
+}
